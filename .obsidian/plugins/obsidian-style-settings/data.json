@@ -1,0 +1,12 @@
+{
+  "minimal-style@@tag-border-width": "2px",
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-advanced@@hide-settings-desc": false,
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@mobile-toolbar-off": false,
+  "minimal-style@@minimal-code-scroll": true,
+  "minimal-style@@image-blend-light": false,
+  "minimal-style@@ribbon-style": "ribbon-vertical-expand",
+  "minimal-style@@window-title-off": false,
+  "minimal-advanced@@animations": "default"
+}

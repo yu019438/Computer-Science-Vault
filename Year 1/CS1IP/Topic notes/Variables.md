@@ -21,7 +21,6 @@ System.out.println(x);
 //Hello
 //Goodbye
 ```
-
 * Once x has been reassigned, when called to print will show the output "Goodbye", unless reassigned once again as [[Sequencing|sequencing]] executes [[Java Statements|statements]] top to bottom
 * This means that only the most recent value 'survives', and any older values are discarded from computer memory
 
@@ -36,7 +35,7 @@ System.out.println(x);
 		```x = Hello";```
 	3. **Initialisation**: This is not another step but rather a method of combining steps 1 and 2 ->  Initialisation of a variable declares and assigns a value *simultaneously*
 		```String x = "Hello";```
-
+``
 ---
 ## Related
 - [[Java Statements]]
