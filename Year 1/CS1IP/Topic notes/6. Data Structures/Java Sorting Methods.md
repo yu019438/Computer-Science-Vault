@@ -1,5 +1,5 @@
 #CS1IP 
-## Built-in sorting [[methods]] in Java
+## Built-in sorting [[Methods]] in Java
 `Arrays.sort()` -> Sorts arrays
 ```Java
 int[] numbers = {6, 5, 8, 1};

@@ -23,7 +23,7 @@ public class Test1 {
 	}
 }
 ```
-- In [[Imperative Programming|imperative programming]] the keyword `static` is used, as the class does not need instantiating
+- In Imperative Programming the keyword `static` is used, as the class does not need instantiating
 - A method with no return statement will use the keyword `void`:
  ```Java
 static void print(int x) {
@@ -55,7 +55,6 @@ public class Test1 {
 - **Note**: The methods above must be declared `static` to be called directly from `main()`. If they weren't `static`, this would cause a compilation error, as `main()` itself is`static` and cannot call instance (non-static) methods directly.
 ---
 ## Related
-- [[Object Orientated Programming]]
 - [[Variable Scope]]
 ---
 ## Covered in

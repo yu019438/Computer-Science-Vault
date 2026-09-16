@@ -8,5 +8,8 @@
   "minimal-style@@image-blend-light": false,
   "minimal-style@@ribbon-style": "ribbon-vertical-expand",
   "minimal-style@@window-title-off": false,
-  "minimal-advanced@@animations": "default"
+  "minimal-advanced@@animations": "default",
+  "minimal-style@@pdf-page-style": "pdf-shadows-on",
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-blend-light": true
 }

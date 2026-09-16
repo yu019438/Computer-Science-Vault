@@ -6,8 +6,8 @@
 > - Today, Java is mostly used in Android apps and large companies
 
 Java is best known for:
-- **[[Imperative Programming]]** -> logic is coded line-by-line; computer can spot more errors at compile time
-- **[[Object Orientated Programming]]-> Organising source code using classes, useful when working on larger projects
+- **Imperative Programming** -> logic is coded line-by-line; computer can spot more errors at compile time
+- **Object Orientated Programming** -> Organising source code using classes, useful when working on larger projects
 
 ---
 ## Covered in

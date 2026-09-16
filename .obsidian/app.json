@@ -4,5 +4,7 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "vimMode": true
+  "vimMode": true,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
 }

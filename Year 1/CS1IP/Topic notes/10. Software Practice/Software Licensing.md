@@ -39,8 +39,8 @@ There many different open-source licenses but they can all be categorised into:
 - Understand the licenses in the libraries you use
 - Choose the correct license
 - AVOID: 
-	- Ignoring license requirements -> comply with license terms
-	- Mixing incompatible licenses -> When combining code from different sources, be aware of conflicts in license terms
+	- Ignoring license requirements -> *comply with license terms*
+	- Mixing incompatible licenses -> *When combining code from different sources, be aware of conflicts in license terms*
 ---
 ## Related
 - [[Git & Version Control]]
