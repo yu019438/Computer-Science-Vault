@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "748f4839fd9e87c5",
+            "id": "5dea3df4aa5a21b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/CS1IP/Topic notes/1. Java Basics/MOC - Java Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - Java Basics"
             }
           }
         ]
@@ -183,9 +187,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "748f4839fd9e87c5",
+  "active": "5dea3df4aa5a21b3",
   "lastOpenFiles": [
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Compiled vs Interpreted Languages.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/MOC - Java Basics.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Java.md",
     "Year 1/CS1IP/Topic notes/MOC - CS1IP.md",
+    "Year 1/CS1IP/Topic notes/10. Software Practice/Top-Down Design.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/MOC - Variables & Data Types.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variables.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variable Scope.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Boolean & Chars.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Operators and Expressions.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Data Types.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Code Style.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Running a Java program.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Sequencing.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Java Statements.md",
     "Year 1/CS1IP/Topic notes/10. Software Practice/Git & Version Control.md",
     "Year 1/CS1IP/Topic notes/10. Software Practice/MOC - Software Practice.md",
     "Year 1/CS1IP/Topic notes/4. Methods/MOC - Methods.md",
@@ -193,26 +211,12 @@
     "Year 1/CS1IP/Topic notes/6. Data Structures/MOC - Data Structures.md",
     "Year 1/CS1IP/Topic notes/7. Algorithms/MOC - Algorithms.md",
     "Year 1/CS1IP/Topic notes/5. Console IO/MOC - Console IO.md",
-    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Boolean & Chars.md",
-    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/MOC - Variables & Data Types.md",
-    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variable Scope.md",
-    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variables.md",
     "Year 1/CS1IP/Topic notes/sortspec.md",
     "Year 1/CS1IP/Lecture notes/sortspec.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/MOC - Java Basics.md",
     "Year 1/CS1IP/Topic notes/9. Streams/MOC - Streams.md",
     "Year 1/CS1IP/Topic notes/8. File IO/MOC - File IO.md",
     "Year 1/CS1IP/Topic notes/3. Control Flow/MOC - Flow Control.md",
-    "Year 1/CS1IP/Topic notes/4. Methods/Methods.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Java.md",
-    "Year 1/CS1IP/Imperative Programming.md",
-    "Year 1/CS1IP/Object Orientated Programming.md",
     "Year 1/CS1IP/Lecture notes/CS1IP_week_03_lecture.pdf",
-    "Year 1/CS1IP/Topic notes/10. Software Practice/Errors.md",
-    "Year 1/CS1IP/Topic notes/9. Streams/Lambdas.md",
-    "Year 1/CS1IP/Topic notes/7. Algorithms/Algorithms - Search.md",
-    "Year 1/CS1IP/Topic notes/7. Algorithms/BubbleSort.md",
-    "Year 1/CS1IP/Topic notes/6. Data Structures/Java Sorting Methods.md",
     "Pasted image 20260916005910.png",
     "Untitled 2",
     "Untitled 1",
