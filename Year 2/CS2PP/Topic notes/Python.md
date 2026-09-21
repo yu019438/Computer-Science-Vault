@@ -3,9 +3,9 @@
 	- **Imperative**: step-by-step simple lines of code
 	- **Declarative**: stating desired outcome without outlining each step 
 	- **Functional**: Calculates mathematical functions
-	- **Procedural**: *has a subroutine?*
+	- **Procedural**: Organises code into reusable procedures, functions, or subroutines that operate on data sequentially
 	- **Object-Oriented**: Instances of data and methods to modify data (see java)
-- Code is processed at runtime with no need to compile, and like Java, is constructed using objects and classes to build complex systems from reusable patterns
+- CPython automatically compiles `.py` source into intermediate bytecode in memory/cache, and like Java, is constructed using objects and classes to build complex systems from reusable patterns
 - Python is broad and is used in a wide range of fields:
 	- Data science
 	- Scientific computation
@@ -14,11 +14,11 @@
 	- Automation
 	- Web development etc.
 ---
-## Syntax
+## Python vs Java
 Python is considered to have simple and intuitive syntax compared to other languages.  For example:
 ```Java
 public static Main {
-	public class void main(String[] args) {
+	public static void main(String[] args) {
 		System.out.printlnt("Hello world!");
 	}
 }
@@ -46,17 +46,17 @@ else {
 if x < y:
 	z = x
 else:
-	if x == y
+	if x == y:
 		y = y + 1
 	else:
 		z = y
 ```
-## Static vs Dynamic
+### Static vs Dynamic
 - Java is a **static** language -> variables cannot change type once declared:
 ```Java
 String name;  //Variable declared and has type String
 name = "John"; //Value updated to "John"
-name = 36; //Error: variable unable to change data type
+name = 36; //Error: type mismatch
 ```
 - Python is a dynamic language -> variables can be changed throughout the program:
 ```Python
