@@ -5,7 +5,7 @@
 	- **Functional**: Calculates mathematical functions
 	- **Procedural**: Organises code into reusable procedures, functions, or subroutines that operate on data sequentially
 	- **Object-Oriented**: Instances of data and methods to modify data (see java)
-- CPython automatically compiles `.py` source into intermediate bytecode in memory/cache, and like Java, is constructed using objects and classes to build complex systems from reusable patterns
+- CPython automatically compiles `.py` source into intermediate bytecode in memory/cache
 - Python is broad and is used in a wide range of fields:
 	- Data science
 	- Scientific computation
@@ -14,55 +14,10 @@
 	- Automation
 	- Web development etc.
 ---
-## Python vs Java
-Python is considered to have simple and intuitive syntax compared to other languages.  For example:
-```Java
-public static Main {
-	public static void main(String[] args) {
-		System.out.printlnt("Hello world!");
-	}
-}
-```
-^ Becomes:
-```Python
-print("Hello world!")
-```
-Alternatively:
-```Java
-if(x < y) {
-	z = x;
-}
-else {
-	if(x == y) {
-		y = y + 1;
-	}
-	else {
-		z = y;
-	}
-}
-```
-^ Becomes:
-```Python
-if x < y:
-	z = x
-else:
-	if x == y:
-		y = y + 1
-	else:
-		z = y
-```
-### Static vs Dynamic
-- Java is a **static** language -> variables cannot change type once declared:
-```Java
-String name;  //Variable declared and has type String
-name = "John"; //Value updated to "John"
-name = 36; //Error: type mismatch
-```
-- Python is a dynamic language -> variables can be changed throughout the program:
-```Python
-name = "John" # Variable declared and value has been assigned
-name = 36 #Variable data type is changed dynamically
-```
+## Python Performance
+Python is an interpreted language, hence can be significantly slower than other compiled languages.  There are ways around this, such as using: 
+- **Cython**: Compiled python variation providing similar performance to C
+- **jit/numba**: Compile python while running, actively learning the structure during execution
 ---
 ## Related
 

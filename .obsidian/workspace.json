@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Python"
             }
+          },
+          {
+            "id": "a79d96ba1442afba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/CS2PP/Topic notes/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "98e59e8702d67c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/CS2PP/Topic notes/Python vs Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python vs Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1d7466f46cf1f67d",
@@ -220,17 +248,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8be120b8512fc5f0",
+  "active": "98e59e8702d67c3f",
   "lastOpenFiles": [
-    "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf",
     "Year 2/CS2PP/Topic notes/Python.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Java.md",
+    "Year 2/CS2PP/Topic notes/Python vs Java.md",
+    "Year 2/CS2PP/Topic notes/Static vs Dynamic Languages.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/Code Style.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/Running a Java program.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/Sequencing.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/Java Statements.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/Compiled vs Interpreted Languages.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Java.md",
     "Year 1/CS1IP/Topic notes/1. Java Basics/MOC - Java Basics.md",
+    "Pasted image 20260921140123.png",
+    "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf",
     "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variable Scope.md",
     "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Boolean & Chars.md",
     "Year 1/CS1CA/Topic notes/sortspec.md",
@@ -256,7 +287,6 @@
     "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Operators and Expressions.md",
     "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Data Types.md",
     "Year 1/CS1IP/Topic notes/10. Software Practice/Git & Version Control.md",
-    "Year 1/CS1IP/Topic notes/10. Software Practice/MOC - Software Practice.md",
     "Pasted image 20260916005910.png",
     "Media/Pasted image 20260915160852.png",
     "Pasted image 20260915160804.png",
