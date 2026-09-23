@@ -36,7 +36,7 @@ do {
 ```
 - The statement is executed before the while loop is declared -> hence at least one iteration is run
 ## Tracing 
-- Tracing means manually checking through code line-by-line and recording [[Variables|variables]] values at a fixed point in each iteration in order to predict output/ spot bugs
+- Tracing means manually checking through code line-by-line and recording [[Variables in Java|variables]] values at a fixed point in each iteration in order to predict output/ spot bugs
 - Always trace at the same fixed point each iteration (e.g. "just after `i++`") to avoid confusing before/after values.
 **While loop example**: trace just after `x--`: 
 ```Java 

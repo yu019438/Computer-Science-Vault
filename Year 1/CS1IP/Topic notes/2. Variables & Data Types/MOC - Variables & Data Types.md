@@ -1,6 +1,6 @@
 #CS1IP
 ## Notes
-- [[Variables]]
+- [[Variables in Java]]
 - [[Variable Scope]]
 - [[Data Types]]
 - [[Boolean & Chars]]

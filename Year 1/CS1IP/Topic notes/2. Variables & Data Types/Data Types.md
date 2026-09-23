@@ -1,5 +1,5 @@
 #CS1IP
-Programming languages use data types to tell the computer how to store, manipulate and interpret data -> Every [[Variables|variable]] must have one.
+Programming languages use data types to tell the computer how to store, manipulate and interpret data -> Every [[Variables in Java|variable]] must have one.
 - `String`: A text value, or sequence of characters
 - `Int` (integer): A whole number
 - `Double`: A decimal number (floating point)

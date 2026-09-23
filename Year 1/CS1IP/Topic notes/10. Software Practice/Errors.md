@@ -2,7 +2,7 @@
 ### Compile-time errors
 These are errors made in the program that are spotted immediately that prevent a program from running:
 - **Syntax errors** -> forgetting to end [[Java Statements|statements]] with ```;```
-- **Undeclared variables** -> `String x;` without following up with `x = "..."` (see [[Variables]])
+- **Undeclared variables** -> `String x;` without following up with `x = "..."` (see [[Variables in Java]])
 - **Missing references** -> using a particular function without importing the package
 ### Run-time errors
 These errors aren't computed straight away but occur when a program is run:

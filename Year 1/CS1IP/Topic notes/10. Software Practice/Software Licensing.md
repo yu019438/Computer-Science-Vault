@@ -44,7 +44,7 @@ There many different open-source licenses but they can all be categorised into:
 ---
 ## Related
 - [[Git & Version Control]]
-- [[Java - Code Style]]
+- [[Code Style in Java]]
 - [[Software Security]]
 ## Covered in
 - [[CS1IP_week_12_lecture.pdf]]

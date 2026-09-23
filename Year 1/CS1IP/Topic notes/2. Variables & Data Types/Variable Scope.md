@@ -1,5 +1,5 @@
 #CS1IP
-Variable scope refers to the visibility of a [[Variables|variables]] inside of a Java program.  Scope is primarily determined  by **where** the variable is declared.  
+Variable scope refers to the visibility of a [[Variables in Java|variables]] inside of a Java program.  Scope is primarily determined  by **where** the variable is declared.  
 ## Global scope
 A variable has global visibility when it is:
 - Declared at the start of a document
