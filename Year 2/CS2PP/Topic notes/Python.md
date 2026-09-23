@@ -1,5 +1,6 @@
+#CS2PP
 - Python is technically written in C (CPython), and was designed to readable/extensible
-- It is generable purpose and supports many programming paradigms:
+- Python is general purpose and supports many programming paradigms:
 	- **Imperative**: step-by-step simple lines of code
 	- **Declarative**: stating desired outcome without outlining each step 
 	- **Functional**: Calculates mathematical functions

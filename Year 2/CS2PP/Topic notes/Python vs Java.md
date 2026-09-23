@@ -1,3 +1,4 @@
+#CS2PP
 ## Static vs dynamic languages
 - Java is a **static** language -> variables cannot change type once declared:
 ```Java

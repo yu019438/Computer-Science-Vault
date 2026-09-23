@@ -50,7 +50,7 @@ Review lecture notes for Dungeon Game example and application of top-down design
 -> Shows detailed code example of logic from this lecture
 ---
 ## Related
-- [[Code Style]]
+- [[Java - Code Style]]
 - [[Testing]]
 - [[Recursion]]
 ## Covered in

@@ -5,6 +5,6 @@
 - [[Running a Java program]]
 - [[Sequencing]]
 - [[Java Statements]]
-- [[Code Style]]
+- [[Java - Code Style]]
 ---
 Up: [[MOC - CS1IP]]

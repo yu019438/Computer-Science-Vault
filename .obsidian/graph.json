@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:CS1IP",
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#CS2PP  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 6084269
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1916855968564266,
+  "scale": 0.8204348162637539,
   "close": false
 }
