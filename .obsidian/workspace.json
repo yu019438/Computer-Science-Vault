@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73f64872ffdacd1c",
+        "id": "52ffda701017af4b",
         "type": "tabs",
         "children": [
           {
-            "id": "66038064c5e8e7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/CS2PP/Topic notes/Code Style in Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Code Style in Python"
-            }
-          },
-          {
-            "id": "996b3b20f95d3999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/CS2PP/Topic notes/Code Style in Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Code Style in Python"
-            }
-          },
-          {
-            "id": "4a0a067a8047fec7",
+            "id": "57c77c52dd0d3b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Variables in Python"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/CS2PP/Topic notes/Variables in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 2/CS2PP/Topic notes/Variables in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -188,8 +161,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
-                "followCursor": false,
+                "file": "Year 2/CS2PP/Topic notes/Variables in Python.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -197,7 +170,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -213,84 +187,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-git:Open Git source control": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "floating": {
-    "id": "fefda398e5fa3e35",
-    "type": "floating",
-    "children": [
-      {
-        "id": "65a2672dfb0d3016",
-        "type": "window",
-        "children": [
-          {
-            "id": "c686cc257d82f509",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8a3ba641b014c66",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "CS2PP_week_01_lecture"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 856,
-        "y": 38,
-        "width": 854,
-        "height": 984,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4a0a067a8047fec7",
+  "active": "57c77c52dd0d3b46",
   "lastOpenFiles": [
-    "Year 2/CS2PP/Topic notes/Code Style in Python.md",
+    "Year 2/CS2PP/Lecture notes/CS2PP_week_02_lecture.pdf",
     "Year 2/CS2PP/Topic notes/Variables in Python.md",
-    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variables in Java.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Code Style in Java.md",
-    "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf",
+    "Year 2/CS2PP/Topic notes/Modular Programming in Python.md",
+    "Year 2/CS2PP/Topic notes/sortspec.md",
+    "Year 2/CS2PP/Topic notes/Code Style in Python.md",
     "Year 2/CS2PP/Topic notes/Data Science.md",
-    "Media/Pasted image 20260923154628.png",
     "Year 2/CS2PP/Topic notes/IDEs.md",
     "Year 2/CS2PP/Topic notes/Running Python.md",
-    "Year 2/CS2PP/Topic notes/Modular Programming in Python.md",
     "Year 2/CS2PP/Topic notes/Python vs Java.md",
     "Year 2/CS2PP/Topic notes/Python.md",
-    "Year 2/CS2PP/Topic notes/sortspec.md",
+    "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf",
+    "Media/Pasted image 20260922153642.png",
+    "Media/Pasted image 20260915160852.png",
+    "Media/Pasted image 20260912194437.png",
+    "Year 1/CS1IP/Topic notes/MOC - CS1IP.md",
+    "Year 2/CS2PP/Topic notes/Untitled.md",
+    "Year 1/CS1IP/Topic notes/4. Methods/Methods.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays - Matrices.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Collections.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Code Style in Java.md",
+    "Year 1/CS1IP/Topic notes/2. Variables & Data Types/Variables in Java.md",
+    "Media/Pasted image 20260923154628.png",
     "Year 1/CS1IP/Topic notes/sortspec.md",
     "Year 1/CS1IP/Lecture notes/sortspec.md",
     "Year 2/CS2PP/Lecture notes/sortspec.md",
-    "Year 1/CS1IP/Topic notes/MOC - CS1IP.md",
     "Year 1/CS1IP/Topic notes/8. File IO/Reading & Writing Files.md",
     "Year 1/CS1IP/Topic notes/8. File IO/MOC - File IO.md",
     "Year 1/CS1IP/Lecture notes/CS1IP_week_09_lecture.pdf",
     "Year 1/CS1IP/Topic notes/7. Algorithms/Algorithms - Search.md",
     "Year 1/CS1IP/Topic notes/7. Algorithms/MOC - Algorithms.md",
-    "Media/Pasted image 20260922153642.png",
-    "Media/Pasted image 20260915160852.png",
-    "Media/Pasted image 20260912194437.png",
     "Pasted image 20260921140123.png",
     "Year 2/CS2PP/Topic notes/Static vs Dynamic Languages.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Running a Java program.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Sequencing.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Java Statements.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Compiled vs Interpreted Languages.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/Java.md",
-    "Year 1/CS1IP/Topic notes/1. Java Basics/MOC - Java Basics.md",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_05_lecture.pdf",
-    "Year 2/CS2PP/Lecture notes/CS2PP_week_02_lecture.pdf",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_03_lecture.pdf",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_04_lecture.pdf",
     "Year 2/CS2PP/Practicals",

@@ -1,4 +1,4 @@
-#CS2PP
+#CS2PP 
 ## Title
 - Modular programming is done in python with methods.  Like in Java, methods are used to break down larger coding tasks into more manageable, reusable subtasks.  
 - Here is key terminology to be aware of:
