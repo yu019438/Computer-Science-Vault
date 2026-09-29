@@ -6,5 +6,6 @@
   "rightToLeft": false,
   "vimMode": true,
   "propertiesInDocument": "visible",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

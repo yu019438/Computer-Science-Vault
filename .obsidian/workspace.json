@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b85f31cdfa0d625e",
+        "id": "0cf8b44e01b33320",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/CS2PP/Topic notes/Data Science.md",
+                "file": "Year 2/CS2DA/Topic notes/Hash Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Science"
+              "title": "Hash Table"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cdeb989918a030f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ecc7c180cf82575",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Year 2/CS2DA/Lecture notes/CS2DA_week_01_lecture.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CS2DA_week_01_lecture"
             }
           }
         ]
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/CS2PP/Topic notes/Data Science.md",
+                "file": "Year 2/CS2DA/Topic notes/Hash Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Year 2/CS2PP/Topic notes/Data Science.md",
+                "file": "Year 2/CS2DA/Topic notes/Hash Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,50 +248,49 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "335d11399de23570",
+  "active": "7394e0f617d3de79",
   "lastOpenFiles": [
+    "Year 2/CS2DA/Lecture notes/CS2DA_week_01_lecture.pdf",
+    "Year 2/CS2DA/Topic notes/Hash Table.md",
+    "Year 1/CS1IP/Topic notes/4. Methods/Recursion.md",
+    "Year 1/CS1IP/Topic notes/4. Methods/Methods.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Running a Java program.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Sequencing.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Java Statements.md",
+    "Year 1/CS1IP/Topic notes/1. Java Basics/Compiled vs Interpreted Languages.md",
+    "Year 1/CS1IP/Lecture notes/CS1IP_week_01_lecture.pdf",
+    "Year 2/CS2DA/Topic notes/Algorithms.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Collections.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Java Sorting Methods.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/Algorithms - Big-O Notation.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays.md",
+    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays - Matrices.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/BubbleSort vs MergeSort.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/MergeSort.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/BubbleSort.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/Algorithms - Search.md",
+    "Year 1/CS1IP/Topic notes/7. Algorithms/Algorithms - Comparing Algorithms.md",
+    "Year 2/CS2PP/Topic notes/Data Science.md",
     "Year 2/CS2PP/Topic notes/Code Style in Python.md",
     "Year 2/CS2PP/Topic notes/Variables in Python.md",
-    "Year 1/CS1IP/Topic notes/4. Methods/Methods.md",
-    "Year 2/CS2DA/Topic notes/Algorithms.md",
     "Year 2/CS2DA/Topic notes/Data Structures.md",
     "Year 2/CS2DA/Topic notes/Lists.md",
-    "Year 2/CS2DA/Topic notes/Hash Table.md",
     "Year 2/CS2DA/Topic notes/Quicksort.md",
     "Year 2/CS2PP/Topic notes/Running Python.md",
-    "Year 2/CS2PP/Topic notes/Data Science.md",
-    "Year 2/CS2PP/Topic notes/IDEs.md",
-    "Year 2/CS2PP/Topic notes/Modular Programming in Python.md",
-    "Year 2/CS2PP/Topic notes/Python vs Java.md",
-    "Year 2/CS2PP/Topic notes/Python.md",
-    "Year 2/CS2DA/Lecture notes/CS2DA_week_01_lecture.pdf",
-    "Year 2/CS2DA/Topic notes/sortspec.md",
-    "Year 2/CS2PP/Topic notes/sortspec.md",
     "Year 2/CS2DA/Topic notes",
     "Year 2/CS2DA/Lecture notes",
-    "Year 2/CS2SE/Topic notes/AI in Software Engineering.md",
-    "Year 2/CS2SE/Topic notes/Software Engineering - Conceptual Flow.md",
-    "Year 2/CS2SE/Topic notes/Challenges in Software Engineering.md",
-    "Year 2/CS2SE/Topic notes/Introduction to Software Engineering.md",
     "Year 2/CS2SE/Lecture notes/CS2SE_week_01_lecture.pdf",
     "Media/Pasted image 20260927224631.png",
-    "Year 1/CS1IP/Topic notes/MOC - CS1IP.md",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_01_lecture.pdf",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_04_lecture.pdf",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_03_lecture.pdf",
-    "Year 2/CS2SE/Topic notes/sortspec.md",
-    "Year 2/CS2SE/Lecture notes/sortspec.md",
     "Year 2/CS2PP/Lecture notes/CS2PP_week_02_lecture.pdf",
     "Media/Pasted image 20260922153642.png",
     "Media/Pasted image 20260915160852.png",
     "Media/Pasted image 20260912194437.png",
-    "Year 2/CS2PP/Topic notes/Untitled.md",
-    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays.md",
-    "Year 1/CS1IP/Topic notes/6. Data Structures/Arrays - Matrices.md",
     "Media/Pasted image 20260923154628.png",
     "Year 1/CS1IP/Lecture notes/CS1IP_week_09_lecture.pdf",
     "Pasted image 20260921140123.png",
-    "Year 2/CS2PP/Lecture notes/CS2PP_week_05_lecture.pdf",
     "Pasted image 20260916005910.png",
     "Pasted image 20260915160804.png",
     "Pasted image 20260915160718.png"
