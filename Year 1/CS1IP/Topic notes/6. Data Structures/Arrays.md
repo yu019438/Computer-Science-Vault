@@ -1,5 +1,5 @@
 #CS1IP 
-An Array is a collection of elements (of the same [[Data Types|data type]]) stored in 'contiguous' memory -> Arrays have a **fixed size** (number of elements) that is specified when initialised:
+An Array is a collection of elements (of the same [[Data Types in Java|data type]]) stored in 'contiguous' memory -> Arrays have a **fixed size** (number of elements) that is specified when initialised:
 - Int array: `0, 1, 1, 2, 4`
 - Double array: `0.5, 1.5, 2.5, 8.5`
 - String array: `Hello, Bonjour, Hola`

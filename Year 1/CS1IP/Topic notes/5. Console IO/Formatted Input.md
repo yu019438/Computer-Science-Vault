@@ -1,5 +1,5 @@
 #CS1IP
-Formatted input is when a program is told exactly how to interpret the input data, by assigning a [[Data Types|data type]] to the user's input.
+Formatted input is when a program is told exactly how to interpret the input data, by assigning a [[Data Types in Java|data type]] to the user's input.
 ```java
 Scanner input = new Scanner(System.in);
 System.out.println("How many weeks until the end of the semester?");

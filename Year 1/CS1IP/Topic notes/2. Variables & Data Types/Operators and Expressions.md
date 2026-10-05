@@ -1,6 +1,6 @@
 #CS1IP
 * Operators are typically used for calculation/computation.  However, we can also use them in conjunction with variables and constants to build **expressions**
-* The combination of Strings and integers (as well as other [[Data Types|data types]])  is called concatenation: 
+* The combination of Strings and integers (as well as other [[Data Types in Java|data types]])  is called concatenation: 
 ```Java
 int weeks = 12;
 int days = weeks * 7

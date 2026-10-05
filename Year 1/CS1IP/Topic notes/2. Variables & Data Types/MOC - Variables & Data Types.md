@@ -2,7 +2,7 @@
 ## Notes
 - [[Variables in Java]]
 - [[Variable Scope]]
-- [[Data Types]]
+- [[Data Types in Java]]
 - [[Boolean & Chars]]
 - [[Operators and Expressions]]
 ---

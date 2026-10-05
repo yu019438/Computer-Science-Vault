@@ -6,7 +6,7 @@ String x;
 x = "Hello";
 System.out.println(x);
 ```
-* In the above example, x is the variable name, and 'String' is the variable's [[Data Types|data type]]
+* In the above example, x is the variable name, and 'String' is the variable's [[Data Types in Java|data type]]
 * We can have an infinite number of variables, but two variables can't share the same name in the same scope
 	- Variables, unlike Strings are **mutable**: their value can be changed after assignment by **reassignment**
 ```Java

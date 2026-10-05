@@ -36,7 +36,7 @@ boolean nighttime = !daytime;
 
 ---
 ### Char data type
-- A Char is a [[Data Types|data type]] that holds a single character
+- A Char is a [[Data Types in Java|data type]] that holds a single character
 - **NOTE**: Character values are enclosed in single quotes `'` rather than double quotes `"`
 ```Java
 char vowel1 = 'a';

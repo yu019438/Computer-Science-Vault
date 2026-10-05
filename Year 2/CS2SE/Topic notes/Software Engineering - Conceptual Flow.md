@@ -4,7 +4,7 @@ Below is a diagram detailing a common workflow in software engineering:
 ## Conceptual Views
 | SE views     | Depends on                                                                           | Provides for                                           |
 | ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Paradigm     | Conceptual philosophy                                                                | Guides design and thought process                      |
+| Paradigm     | Conceptual philosophy (IP/OOP)                                                       | Guides design and thought process                      |
 | Architecture | 4+1 model: logical view, development view, process view, physical view and scenarios | Structures software system                             |
 | Framework    | Implements paradigm + architecture                                                   | Enables practical coding and reusability               |
 | Methodology  | Waterfall, Agile, DevOps                                                             | Guides software development project execution/delivery |
